@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = paula.garciadv@gmail.com
+	name = paula garcia
